@@ -5,7 +5,7 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=IsratIJK&count_private=true&show_icons=true&layout=default)
 
-Let me introduce myself u :girl: 
+Let me introduce myself to you :girl: 
 
 - 🔭 I’m currently working on [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature). Sometimes I try to work on some short personal projects of mine.
 - :diamond_shape_with_a_dot_inside: I have learnt [C](https://devdocs.io/c/), [Java](https://www.oracle.com/topics/technologies/newtojava/programming-center.html#Java_Basics), [Python](https://www.python.org/),[HTML](https://en.wikipedia.org/wiki/HTML). I used some of them in solving problems in [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature.). However, I'm trying to make myself skilled in C, Java, [Julia](https://julialang.org/) and Python now  :computer:
