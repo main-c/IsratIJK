@@ -1,9 +1,12 @@
 <h1 align="">Hi 👋 , I'm Israt Jahan khan.</h1> 
 <h3>Also known as "Ipty" to other people.</h3>
 
-### Stats about me in Github:
+###  🔧 Stats of me in Github:
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=IsratIJK&count_private=true&show_icons=true&layout=default)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=IsratIJK&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="300" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsratIJK&theme=radical&layout=compact" height="300" width="350"/>
+</div>
 
 Let me introduce myself to you :girl: 
 
