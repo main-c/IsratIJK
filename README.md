@@ -39,6 +39,4 @@ Let me introduce myself to you :girl:
   
   
   --------------------------------------------------------------------------------------------------------------------------------
-  
-  [![Israt Jahan Khan's wakatime stats after 26 January 2021](https://github-readme-stats.vercel.app/api/wakatime?username=IsratIJK)](https://github.com/anuraghazra/github-readme-stats)
 
