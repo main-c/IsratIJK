@@ -36,3 +36,9 @@ Let me introduce myself to you :girl:
 :star: [URI](https://www.urionlinejudge.com.br/judge/en/profile/436969) <br>
 
 <i>Many more are coming soon...<i> :cupid:
+  
+  
+  --------------------------------------------------------------------------------------------------------------------------------
+  
+  [![Israt Jahan Khan's wakatime stats after 26 January 2021](https://github-readme-stats.vercel.app/api/wakatime?username=IsratIJK)](https://github.com/anuraghazra/github-readme-stats)
+
