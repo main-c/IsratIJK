@@ -22,7 +22,7 @@
 
  
 <details>
-   <summary>Github Stats of me in GitHub:</summary>
+   <summary>Github Stats of me:</summary>
 <div align="center">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=IsratIJK&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
   <br>
