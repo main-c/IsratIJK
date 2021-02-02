@@ -70,6 +70,22 @@ Let me introduce myself  :girl:
 
 
 
+<h2 align="center">
+My Current Workstation Specification </h2>
+
+<div align="center">
+  
+![Laptop](https://img.shields.io/badge/Windows-ASUS-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+<br>
+
+![CPU](https://img.shields.io/badge/Intel-Core_i3_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+ 
+  
+
+
+</div>
+
+
 
 
 
