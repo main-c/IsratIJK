@@ -44,9 +44,11 @@ Let me introduce myself  :girl:
         :beginner: Web Designing <br>
         :beginner: Strategy <br>
 
+<h2 align="center">
 
+ Technologies and Languages 
+</h2>
 
-### Technologies and Languages ###
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
