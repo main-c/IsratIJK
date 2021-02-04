@@ -153,10 +153,22 @@ My Current Workstation Specification </h2>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br><br>
-<p align= "center">
 
-<a href="https://github.com/IsratIJK/github-readme-twitter">
-<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=IsratIJK&layout=wide&show_reply=off&show_retweet=off" />
+
+<div align="center">
+  
+
+![IsratIJK's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IsratIJK&layout=compact&theme=radical)
+
+
+</div>
+
+
+<p align="center">
+
+<a href="https://github.com/FahimFBA/github-readme-twitter">
+<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
 </a>
+
 </p>
 
