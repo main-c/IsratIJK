@@ -32,7 +32,7 @@
 </details> 
  
 
-
+ 
 Let me introduce myself  :girl: 
 
 - 🔭 I’m currently working on [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature). Sometimes I try to work on some short personal projects of mine.
