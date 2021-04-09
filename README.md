@@ -8,7 +8,7 @@
   </a>
   </h3>  
                   
-          
+           
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
