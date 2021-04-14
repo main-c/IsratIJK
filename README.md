@@ -9,7 +9,7 @@
   </h3>  
                    
             
-<details align="center">
+<details align="center"> 
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
