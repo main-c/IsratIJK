@@ -7,7 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=IsratIJK&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
   </h3>  
-                   
+                    
             
 <details align="center"> 
   <summary>GitHub Trophies 🏆</summary>
