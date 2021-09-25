@@ -1,9 +1,8 @@
-<h2 align="center"> Hi 👋 , I'm Israt Jahan Khan <br/></h2> 
-<h3 align="center">Also known as "Ipty" to other people. 
- 
-  </h3>   
-                             
-                    
+<h2 align="center"> Hi, I'm Israt Jahan Khan 👋<br/></h2> 
+<h3 align="center">Also known as "Ipty" to other people.
+
+  </h3>
+
 <details align="center"> 
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
@@ -12,12 +11,9 @@
   </a>
 </p>
 </details>
-  
-  
-    
-  
+
 <details>
-   <summary>Github Stats of me:</summary>
+   <summary>My GitHub Stats:</summary>
 <div align="center">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=IsratIJK&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
   <br>
@@ -25,10 +21,8 @@
 
 </div>
 </details> 
- 
 
- 
-Let me introduce myself  :girl: 
+Let me introduce myself :girl:
 
 - 🔭 I’m currently working on [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature). Sometimes I try to work on some short personal projects of mine.
 - :art: <b>Hobby:</b> Attending in [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature), watching anime series, movies, English TV series and so on. I was a bookworm earlier even though I don't read that much nowadays. :disappointed: I love tech-related stuff whether it could be :iphone: or :computer: related stuff although I keep decent knowledge regarding :computer:  
@@ -40,12 +34,12 @@ Let me introduce myself  :girl:
 
 <h2 align="center">
 
- Technologies and Languages 
+ Technologies and Languages
 </h2>
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
@@ -56,16 +50,14 @@ Let me introduce myself  :girl:
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Microsoft Exel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 
-
-
 <h2 align="center">
-My Current Workstation Specification </h2>
+My Current Workstation Specifications </h2>
 
 <div align="center">
   
@@ -73,51 +65,20 @@ My Current Workstation Specification </h2>
 <br>
 
 ![CPU](https://img.shields.io/badge/Intel-Core_i3_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
- 
-  
-
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
-  
 
-
-  
   <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
  ### ⚡️ Fun fact about me: ✨ I love coding+learning+sleeping✨ 
- 
-
 
 <h2>Connect with me!</h2>
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/IsratIJK/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/IsratIJK/)  
-
-
-
-
-
-
 
 <br> <br>
 🌟 STAR THE REPOS IF YOU LIKE 🌟
@@ -126,16 +87,7 @@ My Current Workstation Specification </h2>
 
 </div>
 
-
-
-
-
-
-
-
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 - :snowflake: If you want to check my profile of CP related various Online Judges, then: <br>
 :star: [Codeforces](https://codeforces.com/profile/IsratIJK) <br>
@@ -149,12 +101,9 @@ My Current Workstation Specification </h2>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br><br>
 
-
 <div align="center">
   
-
 ![IsratIJK's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IsratIJK&layout=compact&theme=radical)
-
 
 </div>
 
@@ -166,4 +115,3 @@ My Current Workstation Specification </h2>
 </a>
 
 </p>
-
